@@ -1,0 +1,6 @@
+order_id,customer_id,order_status,order_purchase_timestamp
+O1,C1,delivered,2023-09-01 10:00:00
+O2,C1,delivered,2023-09-05 12:00:00
+O3,C2,canceled,2023-09-03 09:00:00
+O4,C3,shipped,2023-08-25 18:00:00
+O5,C2,delivered,2023-09-10 14:30:00
